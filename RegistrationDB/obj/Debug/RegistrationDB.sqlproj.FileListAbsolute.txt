@@ -1,0 +1,10 @@
+C:\Users\steph\source\repos\RegistrationSQLServer\RegistrationDB\bin\Debug\RegistrationDB.dacpac
+C:\Users\steph\source\repos\RegistrationSQLServer\RegistrationDB\bin\Debug\RegistrationDB.dll
+C:\Users\steph\source\repos\RegistrationSQLServer\RegistrationDB\bin\Debug\RegistrationDB.pdb
+C:\Users\steph\source\repos\RegistrationSQLServer\RegistrationDB\obj\Debug\RegistrationDB.sqlprojAssemblyReference.cache
+C:\Users\steph\source\repos\RegistrationSQLServer\RegistrationDB\obj\Debug\Model.xml
+C:\Users\steph\source\repos\RegistrationSQLServer\RegistrationDB\obj\Debug\refactor.xml
+C:\Users\steph\source\repos\RegistrationSQLServer\RegistrationDB\obj\Debug\postdeploy.sql
+C:\Users\steph\source\repos\RegistrationSQLServer\RegistrationDB\obj\Debug\predeploy.sql
+C:\Users\steph\source\repos\RegistrationSQLServer\RegistrationDB\obj\Debug\RegistrationDB.dll
+C:\Users\steph\source\repos\RegistrationSQLServer\RegistrationDB\obj\Debug\RegistrationDB.pdb
